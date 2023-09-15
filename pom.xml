@@ -5,7 +5,7 @@
 
   <groupId>io.github.kefasb</groupId>
   <artifactId>json-schema-ref-parser-jvm</artifactId>
-  <version>0.8.3-8-SNAPSHOT</version>
+  <version>0.8.2-8</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>JSON Schema Ref Parser for Java</description>
@@ -43,7 +43,7 @@
     <connection>scm:git:git://github.com/kefasb/json-schema-ref-parser-jvm.git</connection>
     <developerConnection>scm:git:git@github.com:kefasb/kefasb.git</developerConnection>
     <url>https://github.com/kefasb/json-schema-ref-parser-jvm/</url>
-    <tag>HEAD</tag>
+    <tag>v0.8.2-8</tag>
   </scm>
 
   <properties>
